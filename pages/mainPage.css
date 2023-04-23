@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Montserrat";
+}
+input {
+  margin: 0;
+  padding: 0;
+  border: none;
+  all: unset;
+  color: #ffff;
+}
+button {
+  all: unset;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  cursor: default;
+  margin: 0;
+  padding: 0;
+  all: unset;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.container{
+  padding: 20px 30px;
+}
+.btnLogo {
+  cursor: pointer;
+}
+.logo {
+  font-size: 25px;
+  padding: 20px;
+  color: #240b35;
+}
